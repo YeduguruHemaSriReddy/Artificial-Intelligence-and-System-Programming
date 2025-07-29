@@ -1,0 +1,16 @@
+### 📁 `.gitignore`
+```gitignore
+*.out
+*.o
+*.exe
+*.class
+*.pyc
+__pycache__/
+.DS_Store
+
+.vscode/
+.idea/
+*.swp
+
+*.pdf
+*.png
