@@ -1,0 +1,5 @@
+?- animal(bat,Type).
+Type = bat .
+
+?- animal(penguin,Type).
+Type = penguin.
