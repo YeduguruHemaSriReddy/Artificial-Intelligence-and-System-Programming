@@ -1,0 +1,20 @@
+?- mother(susan, mary).
+true.
+
+?- father(john, tom).
+true.
+
+?- sibling(mary, tom).
+true.
+
+?- grandfather(john, alice).
+true.
+
+?- grandmother(susan, bob).
+true.
+
+?- sibling(alice, bob).
+true.
+
+?- sibling(mary, mary).
+false.
