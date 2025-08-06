@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (if you use one)
+venv/
+env/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Python egg and build folders
+*.egg-info/
+dist/
+build/
